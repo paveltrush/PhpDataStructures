@@ -1,0 +1,24 @@
+{
+    "name": "salazar/php-data-structures",
+    "description": "Range of different data structures to use in php projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Salazar\\PhpDataStructures\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Trush",
+            "email": "paveltrush019@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
