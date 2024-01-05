@@ -5,7 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Salazar\\PhpDataStructures\\": "src/"
+            "Salazar\\PhpDataStructures\\": "src/",
+            "Salazar\\Tests\\": "tests/"
         }
     },
     "authors": [

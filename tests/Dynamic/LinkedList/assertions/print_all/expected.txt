@@ -1,0 +1,9 @@
+Name: John Week
+Age: 26
+Gender: 1
+Name: Lara Moravich
+Age: 78
+Gender: 1
+Name: Sebastian Saprun
+Age: 20
+Gender: 1
